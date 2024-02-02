@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: kapatsyndianadockerid/hello-gitops
-  newTag: 1357cbf2d73205ce2b7eecd1b6f2396cf90ddeba
+  newTag: 34a8d74c3ebcf293cafb0b9132d1f2ceb3e49dc4
