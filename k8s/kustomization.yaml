@@ -4,8 +4,8 @@ resources:
 - deployment.yaml
 - service.yaml
 - ingress.yaml
-namespace: hello-gitops
+namespace: python-app-green
 images:
 - name: hello-gitops
   newName: kapatsyndianadockerid/hello-gitops
-  newTag: 34a8d74c3ebcf293cafb0b9132d1f2ceb3e49dc4
+  newTag: 82657bc0efb7bdb3bd28848e8a8b411164a8a2ba
